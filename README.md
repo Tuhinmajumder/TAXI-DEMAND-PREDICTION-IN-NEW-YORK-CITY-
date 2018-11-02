@@ -9,7 +9,8 @@ Livery Passenger Enhancement Programs (TPEP/LPEP)) for the time period of Jan - 
 
 **Data Information:**
 
-Ge the data from : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml (2016 data) The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC)
+The source of the data
+ : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml (2016 data) The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC)
 
 **Data Collection**
 
